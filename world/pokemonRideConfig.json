@@ -907,65 +907,6 @@
         ]
       ],
       "speedModifier": 1.0
-    },
-    "Talonflame": {
-      "stamina": 0,
-      "mountType": [
-        "WALK",
-        "FLY"
-      ],
-      "ridingOffSet": [
-        -0.25,
-        0.5,
-        0.0
-      ],
-      "passengersOffSet": [
-        [
-          0.0,
-          0.0,
-          0.0
-        ]
-      ],
-      "speedModifier": 1.5
-    },
-     "Kangaskhan": {
-      "stamina": 0,
-      "mountType": [
-        "WALK"
-      ],
-      "ridingOffSet": [
-        0.6,
-        0.5,
-        0.35
-      ],
-      "passengersOffSet": [
-        [
-          0.0,
-          0.0,
-          0.0
-        ]
-      ],
-      "speedModifier": 1.0
-    },
-    "Emolga": {
-      "stamina": 0,
-      "mountType": [
-        "WALK",
-        "FLY"
-      ],
-      "ridingOffSet": [
-        -0.2,
-        0.1,
-        0.0
-      ],
-      "passengersOffSet": [
-        [
-          0.0,
-          0.0,
-          0.0
-        ]
-      ],
-      "speedModifier": 1.0
     }
   }
 }
